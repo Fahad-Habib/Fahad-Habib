@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Fahad+Habib)](https://git.io/typing-svg)
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+
+### :man_technologist: &nbsp;About Me :
+
+I am an Electrical Engineer from Pakistan.
+
+- 💡 I’m persuing my undergrad degree in Electrical Engineering from UET Lahore.
+- 🎮 I'm interested in Application Development and like to make them from scratch in my free time.
+- ⚡ I'm also interested in Machine Learning, Embedded Systems and Digital System Design using verilog.
+
 ### 🛠 &nbsp;TechStack :
 
 <p>
