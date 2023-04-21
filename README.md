@@ -31,7 +31,7 @@ I am an Electrical Engineer from Pakistan.
 
 ## &nbsp; My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Habib&show_icons=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Habib&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahad-Habib&theme=dark&background=000000)
 
