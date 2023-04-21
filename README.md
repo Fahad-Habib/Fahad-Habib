@@ -2,15 +2,15 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
-### :man_technologist: &nbsp;About Me :
+## &nbsp;About Me :
 
 I am an Electrical Engineer from Pakistan.
 
-- 💡 I’m persuing my undergrad degree in Electrical Engineering from UET Lahore.
-- 🎮 I'm interested in Application Development and like to make them from scratch in my free time.
-- ⚡ I'm also interested in Machine Learning, Embedded Systems and Digital System Design using verilog.
+- I’m currently persuing my undergrad degree in Electrical Engineering from University of Engineering and Technology, Lahore.
+- I'm interested in Application Development and like to make them from scratch in my free time.
+- I'm also interested in Machine Learning, Embedded Systems and Digital System Design using verilog.
 
-### 🛠 &nbsp;TechStack :
+## 🛠 &nbsp;TechStack :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -29,8 +29,10 @@ I am an Electrical Engineer from Pakistan.
 
 </p>
 
-### &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahad-Habib&theme=dark&background=000000)](https://git.io/streak-stats)
+## &nbsp; My Stats :
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Habib&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Habib&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahad-Habib&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Habib&layout=compact&theme=vision-friendly-dark)
