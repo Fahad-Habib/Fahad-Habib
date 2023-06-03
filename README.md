@@ -8,8 +8,8 @@ I am an Electrical Engineer from Pakistan.
 
 - I’m currently persuing my undergrad degree in Electrical Engineering from University of Engineering and Technology, Lahore.
 - I like to solve problems on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a> and <a href="https://www.codeforces.com" target="_blank">Codeforces</a> in my free time.
-- I'm interested in Application Development and like to make them from scratch in my free time.
-- I'm also interested in Machine Learning, Embedded Systems and Digital System Design using verilog.
+- I'm interested in Application Development and Digital System Design using SystemVerilog and like to implement them from scratch in my free time.
+- I'm also interested in Machine Learning and Embedded Systems.
 
 ## 🛠 &nbsp;TechStack :
 
