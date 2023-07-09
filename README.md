@@ -8,8 +8,8 @@ I am an Electrical Engineer from Pakistan.
 
 - I’m currently persuing my undergrad degree in Electrical Engineering from University of Engineering and Technology, Lahore.
 - I like to solve problems on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a> and <a href="https://www.codeforces.com" target="_blank">Codeforces</a> in my free time.
-- I'm interested in Application Development and Digital System Design using SystemVerilog and like to implement them from scratch in my free time.
-- I'm also interested in Machine Learning and Embedded Systems.
+- I'm interested in Web Development, Machine Learning and Application Development and like to make them from scratch in python in my free time.
+- I'm also interested in Digital Systems Design and Embedded Systems.
 
 ## 🛠 &nbsp;TechStack :
 
@@ -17,7 +17,8 @@ I am an Electrical Engineer from Pakistan.
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="socket" alt="socket" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
