@@ -7,7 +7,7 @@
 I am an Electrical Engineer from Pakistan.
 
 - I’m currently pursuing my undergrad degree in Electrical Engineering from University of Engineering and Technology, Lahore.
-- I like to solve problems on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a> and <a href="https://www.codeforces.com" target="_blank">Codeforces</a> in my free time.
+- I like to solve problems on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a>, <a href="https://www.leetcode.com" target="_blank">LeetCode</a> and <a href="https://www.codeforces.com" target="_blank">Codeforces</a> in my free time.
 - I'm interested in Web Development, Machine Learning and Application Development and like to make them from scratch in python in my free time.
 - I'm also interested in Digital Systems Design and Embedded Systems.
 
