@@ -8,8 +8,9 @@
 
 I am an Electrical Engineer from Pakistan.
 
-- I like to solve problems on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a>, <a href="https://www.leetcode.com" target="_blank">LeetCode</a> and <a href="https://www.codeforces.com" target="_blank">Codeforces</a> in my free time.
+- I'm a competitive programming and Python enthusiast and like to delve into different advance concepts in my free time in the form of different projects.
 - I'm interested in Web Development, Machine Learning and Application Development and like to make them from scratch in python in my free time.
+- I have an extensive experience in the training and fine-tuning of LLMs.
 - I'm also interested in Digital Systems Design and Embedded Systems.
 
 ## 🛠 &nbsp;TechStack :
