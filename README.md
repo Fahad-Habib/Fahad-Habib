@@ -8,10 +8,10 @@
 
 I am an Electrical Engineer from Pakistan.
 
-- I'm a competitive programming and Python enthusiast and like to delve into different advance concepts in my free time in the form of different projects.
-- I'm interested in Web Development, Machine Learning and Application Development and like to make them from scratch in python in my free time.
-- I have an extensive experience in the training and fine-tuning of LLMs.
-- I'm also interested in Digital Systems Design and Embedded Systems.
+- I’m a competitive programming and Python enthusiast who enjoys exploring advanced concepts through various projects in my free time.
+- I’m interested in Web Development, Machine Learning, and Application Development, and I enjoy building them from scratch in Python.
+- I have extensive experience in Backend Development using Django and Django REST Framework.
+- I also have extensive experience in training and fine-tuning LLMs (SFT, RLHF, RLEF), along with a keen interest in Digital Systems Design and Embedded Systems.
 
 ## 🛠 &nbsp;TechStack :
 
